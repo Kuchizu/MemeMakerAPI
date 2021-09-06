@@ -1,14 +1,14 @@
 MemeMaker API [GET]
 
-URL: https://<HerokuAPPNAME>.herokuapp.com/<type>/<text> OR local
+URL: https://HerokuAPPNAME.herokuapp.com/type/text OR local
 
 Example requests (GET):
 
-https://<HerokuAPPNAME>.herokuapp.com/putin/Привет
+https://HerokuAPPNAME.herokuapp.com/putin/Привет
 
-https://<HerokuAPPNAME>.herokuapp.com/kli4ko/Another%20text
+https://HerokuAPPNAME.herokuapp.com/kli4ko/Another%20text
 
-https://<HerokuAPPNAME>.herokuapp.com/billy/Example
+https://HerokuAPPNAME.herokuapp.com/billy/Example
 
 
 Example success response (JSON):
